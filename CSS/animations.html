@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 14</title>
+    <link rel="stylesheet" href="css-lesson14.css" />
+  </head>
+  <body>
+    <div class="example"></div>
+  </body>
+</html>
+
+<!-- 
+
+Анимации:
+
+Отличие от плавного перехода в том, что анимации могут анимировать переход
+свойств элемента многократно
+
+Ключевые кадры - key frames, 
+
+ @keyframes myAnimation {
+    from {  Значения, с которых свойства будут изменяться
+
+    }
+
+    to {  Значения, к которым свойства придут
+        
+    }
+  }
+
+Количество кадров неограниченно, можем добавлять между from и to через проценты
+
+Передача анимации документу:
+
+animation-name: (имя анимации)
+
+animation-duration: Время анимации в секунадах
+
+animation-timing-function: Временная функция, те же параметры, что и у плавного
+перехода
+
+animation-iteration-count: Количество запусков анимации перед остановкой
+Как значение можно передать infinite, чтобы анимация не прекращала свою работу
+
+animation-direction: Направление анимации
+
+Аргументы:
+alternate - Только каждый нечётный повтор анимации будет идти в прямом направлении,
+чётные - в обратном
+
+reverse - каждый повтор воспроизводится в обратном направлении
+
+alternate-reverse - как alternate, только наоборот
+
+normal - анимация всегда идёт в нормальном направлении
+
+
+Остановка и запуск анимации:
+
+animation-play-state: paused/running
+
+Чтобы оставить элемент в том же виде после завершения анимации
+animation-fill-mode: forwards;
+
+Задержка перед выполнением анимации:
+
+animation-delay: Значение в секундах
+
+Краткая запись, всё по порядку, что не укажем, останется по дефолту
+animation: name duration timing-function delay iteration-count direction fill-mode;
+
+Для нормального плавного повторения анимации конечный размер элемента должен
+совпадать с изначальным
+ -->

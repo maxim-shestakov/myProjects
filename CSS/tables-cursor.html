@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 15</title>
+    <link rel="stylesheet" href="css-lesson15.css" />
+  </head>
+  <body>
+    <table>
+      <caption>
+        Team members price-list
+      </caption>
+      <thead>
+        <tr>
+          <th onclick="(function() { console.log('!!!') })()">Position</th>
+          <th class="dis" onclick="(function() { console.log('???') })()">
+            Price
+          </th>
+          <th>Description</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td></td>
+          <td>1000$</td>
+          <td>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus
+            distinctio quasi velit, similique nobis, quos excepturi sint vitae
+            omnis magni asperiores ad ex inventore veniam iure ipsa
+            reprehenderit quisquam id. Placeat dolorem nobis temporibus optio
+            dolore quidem, ipsa quasi quia ut, nesciunt provident ea tempore
+            alias impedit, inventore laboriosam velit?
+          </td>
+        </tr>
+        <tr>
+          <td>Full-stack</td>
+          <td>1500$</td>
+          <td>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Aspernatur
+            sint asperiores doloribus sed in vitae perspiciatis explicabo, esse
+            reprehenderit quos quidem dolorem repellendus inventore excepturi ad
+            cum voluptatum amet tempore consequuntur eum eligendi qui sit at.
+            Dolores in, fugiat unde dolore blanditiis repellendus omnis? Dolor
+            reprehenderit porro cum rerum earum.
+          </td>
+        </tr>
+        <tr>
+          <td>QA</td>
+          <td>700$</td>
+          <td>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Ducimus
+            quam corrupti recusandae vel deserunt consequuntur eligendi
+            laudantium sequi nulla voluptatum ullam cum fugiat dolore iure sed
+            hic unde neque aliquid, vitae esse culpa magnam! Et blanditiis
+            dignissimos recusandae nobis aliquid hic cum corrupti culpa itaque!
+            Quasi omnis esse nam cupiditate!
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+
+<!-- 
+
+Стилизация таблиц:
+
+Чтобы убрать двойную обводку, пишем 
+
+border-collapse: collapse (объединит двойные в одну)
+border-collapse: separate (элементы разделятся отдельными границами, стоит по дефолту)
+
+Расстояние между разделёнными границами устанавливается через 
+
+border-spacing: В аргумент идёт точное значение в пикселях, может принимать два аргумента,
+в таком  случае первый будет относится к отступам по горизонтали, второй - по вертикали.
+
+Поясняющий заголовок сверху таблицы - caption
+
+Чтобы управлять его положением, используем 
+
+caption-side: top стоит по умолчанию, но можем перенести вниз с помощью bottom значения
+
+Горизонтальное центрирование текста:
+
+text-align: left/center/right
+
+Вертикальное центрирование:
+
+vertical-align: 
+
+baseline - выравнивает базовую линию элемента по базовой линии родителя
+bottom - выравнивание по нижней границе элемента
+middle - выравнивание по центру элемента
+sub - выравнивание элемента, будто он подстрочный
+super - выравнивание, как будто он надстрочный
+text-bottom - выравнивание по самому нижнему краю текущей строки
+text-top - выравнивание по самому высокому элементу текста текущей строки
+top - выравнивание по верхней границе элемента
+
+Чтобы регулировать пустые ячейки, пишем:
+
+empty-cells: hide/show (скрывать/показывать)
+
+
+--------------------------------------
+
+Курсор:
+
+Реакция элементов на клик мыши или прикосновения к сенсорному экрану:
+
+pointer-events:
+
+none - отключает реакцию элемента на клик, так же отключает выделение текста
+
+Стилизация курсора:
+
+cursor: Различные варианты курсора
+
+ -->

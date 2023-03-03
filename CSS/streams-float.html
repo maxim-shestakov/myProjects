@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 4</title>
+    <link rel="stylesheet" href="css-lesson4.css" />
+  </head>
+  <body>
+    <!--<div>
+      <img class="photo" src="myPhoto.jpg" alt="Моё фото" />
+      <p>
+        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Facilis beatae
+        quidem unde quasi. Voluptatem exercitationem unde, eum iste eaque
+        delectus iusto voluptates mollitia magnam impedit earum id neque. At,
+        exercitationem?
+      </p>
+    </div> -->
+    <div class="wrapper">
+      <div class="item item1">1</div>
+      <div class="item item2">2</div>
+      <div class="item item3">3</div>
+    </div>
+    <div class="wrapper2"></div>
+  </body>
+</html>
+
+<!--
+Обтекание текстом:
+
+float: (меняет так же внутри родителя)
+
+-left
+-right
+-bottom
+-top
+
+float вырывает элемент из основного потока доукментов, создавая новый, 
+его перестают видеть другие элементы
+
+В html-разметке первым должен идти элемент, который слева, дальше справа,
+только потом основной
+
+Схлопывание родителя происходит так же из-за того, что он не видит
+размеры дочерних документов
+
+Чинится за счёт 
+
+overflow:auto у родителей
+div с clear:both (Очищение обтекания)
+.wrapper:after (аналог второго, но в CSS) ЛУЧШИЙ ВАРИАНТ
+
+-->

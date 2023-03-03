@@ -1,0 +1,48 @@
+.test {
+  border: 10px solid red;
+  min-width: 100px;
+  min-height: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+  position: sticky;
+  top: 20px;
+  right: 20px;
+  max-width: 1000px;
+  max-height: 100px;
+}
+
+h4 {
+  position: absolute; /*absolute*/
+  border: 1px solid black;
+  bottom: 450px;
+}
+
+li {
+  font-size: 2rem;
+}
+
+.main {
+  font-size: 5px;
+}
+
+.overlay {
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.modal {
+  border: 2px solid #000;
+  width: 300px;
+  height: 100px;
+  background-color: cornflowerblue;
+  font-size: 20px;
+  color: white;
+  position: absolute;
+  z-index: 1;
+  overflow: hidden;
+}

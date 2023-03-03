@@ -1,0 +1,21 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper {
+  min-height: 100vh;
+  width: 100%;
+  background-color: rgb(155, 149, 149);
+  background-image: url(https://pic.rutubelist.ru/video/ff/e4/ffe4195d355e6b059dd7c336592a7036.jpg);
+  /*background-image: url(myPhoto.jpg); Локально, а сверху из сети*/
+  /* background-size: 300px auto; */
+  /* background-repeat: no-repeat; */
+  /* background-position: 50% 50%; */
+  /* background-attachment: fixed; */
+  /* background: rgb(155, 149, 149)  */
+  /* url(https://pic.rutubelist.ru/video/ff/e4/ffe4195d355e6b059dd7c336592a7036.jpg) */
+  /* 50% 50% no-repeat fixed; */
+  background: url(favicon-16x16.png) center no-repeat,
+    url(https://mobimg.b-cdn.net/v3/fetch/74/745e794db777976a45b80673f4f2958b.jpeg);
+}

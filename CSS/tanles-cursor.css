@@ -1,0 +1,26 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+table, /*Для самой таблицы, а ниже для каждого внутреннего элемента*/
+table * {
+  border: 1px solid #000;
+  max-width: 500px;
+  border-collapse: collapse;
+  /* border-spacing: 10px 20px; */
+  caption-side: top;
+  text-align: left;
+  vertical-align: middle;
+  /* empty-cells: hide; */
+  cursor: pointer;
+}
+
+.dis,
+td {
+  pointer-events: none;
+}

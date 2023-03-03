@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 3</title>
+    <link rel="stylesheet" href="css-lesson3.css" />
+  </head>
+  <body>
+    <ul class="main">
+      <li>
+        First
+        <ul>
+          <li>
+            Second
+            <ul>
+              <li>
+                Third
+                <ul>
+                  <li>Fourth</li>
+                </ul>
+              </li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+    </ul>
+    <hr />
+    <div class="modal">
+      MODAL
+      <p>
+        Lorem ipsum dolor sit amet consectetur adipisicing elit. Repellendus,
+        ipsa, voluptate dolorem dolorum expedita itaque possimus asperiores,
+        similique consequatur est illo? Aperiam sed aspernatur rerum harum,
+        facere iusto autem dolor!
+      </p>
+    </div>
+    <hr />
+    <div class="overlay"></div>
+  </body>
+</html>
+
+<!-- 
+min-width - задаёт минимальные размеры, при этом позволяет расширяться 
+до необходимого значения, так же и с min-height
+
+max-width и max-height устанавливают те же ограничения сверху
+
+Размеры:
+
+Абсолютные:
+
+-Пиксели (в браузере стандартный размер шрифта 16px)
+
+Относительные:
+
+-% (берётся от родителя, если у него задан размер, если нет, то от 16px)
+-em (увеличенная в 2 раза текущая величина шрифта)
+-rem (Отталкивается всегда только от дефолтной величины браузера,
+вложенность на неё не влияет, изменить можно только через html{})
+
+Пиксели более применяемы, так как их величина постоянна
+
+Для размерности так же можно использовать calc(100vw-10px)
+
+Для управления уровнями элементов - z-index, в аргумент которого идёт уровень
+элемента
+
+Переполняемость элемента:
+
+Допустим, текст не вместился и мы не задаём min-width и т.п.
+
+Тогда используем overflow
+
+-auto (появляется скролл справа при не вмещении)
+-scroll (Скролл появляется в любом случае)
+-hidden (контент обрезается за пределами блока)
+
+-overflow-x и overflow-y применяет изменения только для заданной оси
+-->

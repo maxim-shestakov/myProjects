@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 18</title>
+    <link rel="stylesheet" href="css-lesson18.css" />
+  </head>
+  <body>
+    <input type="text" placeholder="Please enter your name" />
+    <hr />
+    <input type="date" />
+    <br />
+    <input type="time" />
+    <hr />
+    <button>Button</button>
+    <hr />
+    <p>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime libero
+      quia, error velit dolor, vel modi fugit laboriosam eius, ab sit minima
+      ducimus esse aperiam voluptatem corrupti. Iste consequuntur sit eligendi,
+      qui soluta beatae, obcaecati similique laborum perferendis sed minima
+      aliquam. Sapiente voluptatem, iste in quisquam error voluptatum eligendi
+      rerum. Lorem ipsum dolor sit amet consectetur adipisicing elit. Libero
+      commodi, deleniti hic, maxime vitae impedit asperiores mollitia corporis
+      fugiat sed praesentium? Magnam repellendus corporis autem enim modi.
+      Officia reprehenderit eos alias dicta a labore, nisi, quo odio error,
+      consequatur accusantium quia vel perferendis debitis vitae ad praesentium!
+      Cum laudantium enim vel, unde eos et. Ut repellat, quis, expedita illo
+      ratione sapiente ab adipisci assumenda rem incidunt voluptatibus molestias
+      perferendis inventore veritatis doloribus pariatur perspiciatis reiciendis
+      saepe. Repellendus porro dicta dignissimos nihil impedit animi, dolore
+      repudiandae est quis provident quaerat omnis, ad, aperiam culpa itaque.
+      Ex, quam? Eum veritatis blanditiis ex cum mollitia soluta atque, officiis
+      minus aliquid consequuntur aut sapiente quod quo id laboriosam quibusdam
+      sint. Qui, error dolorem? Magni, facere, harum sed alias voluptatem nihil
+      numquam nemo, neque repudiandae consequatur libero at. Dolore dolor,
+      suscipit quibusdam alias nesciunt earum placeat quis quaerat sit tempora,
+      nisi ad in iure magnam voluptas corporis libero cumque consequatur nulla.
+      Aliquam harum animi unde quas possimus nulla, quam suscipit laborum
+      quibusdam qui perspiciatis ex rerum maxime incidunt commodi assumenda
+      repellendus. Eius placeat atque odit natus assumenda molestiae dolorem
+      nesciunt esse corrupti qui eaque fugiat, animi maiores temporibus nam est
+      sed! Voluptatibus laborum officiis itaque id sed repellendus libero, esse
+      dolor, sapiente tenetur aspernatur, sequi assumenda tempore! Delectus
+      sapiente laboriosam et itaque obcaecati, quae velit harum, maiores a quia
+      natus sint maxime cupiditate illo quod magni quas, accusamus architecto
+      reiciendis eligendi ipsum quo soluta laborum. Accusamus ipsum possimus
+      eos, odio ullam officia laboriosam voluptatibus quod vel delectus rem
+      minima? Eaque voluptatibus sed quod placeat labore assumenda cupiditate,
+      iure quisquam dicta sequi delectus incidunt ab quae possimus, aut in velit
+      recusandae veniam explicabo repellat voluptates iusto? Laudantium id, eum
+      consectetur quisquam cupiditate est quo quibusdam velit, necessitatibus
+      repellendus repellat? Sed necessitatibus inventore corrupti adipisci nemo
+      assumenda totam ducimus! Eveniet reiciendis, vel veritatis voluptatem
+      deleniti distinctio quasi nesciunt odio eligendi enim alias libero esse
+      perferendis autem repellendus ex voluptatum id porro culpa eos, deserunt
+      at. Cum voluptates ut suscipit ducimus dicta minus vel obcaecati molestias
+      accusamus animi voluptatem labore corrupti cumque laboriosam maxime alias
+      repellendus at in id ratione, laborum soluta? Minima doloribus sequi
+      possimus, nesciunt labore reiciendis est dolores, non corrupti architecto
+      tempora nulla asperiores iste? Ipsum quis ipsa illo architecto ut porro
+      autem odit, ad expedita iusto esse? Quae expedita sit nisi suscipit libero
+      voluptatem impedit quas animi, iste ratione saepe blanditiis maiores
+      consectetur fugiat nulla aperiam vitae ipsum? Sit minima nulla, beatae ad
+      ea, sint atque dolorum velit quis mollitia ipsum soluta voluptatem autem
+      saepe quaerat, distinctio neque illo dicta quo suscipit nostrum. Suscipit
+      deleniti et mollitia, tempora consectetur neque error perspiciatis
+      laboriosam ut qui animi provident exercitationem minus impedit officia
+      accusamus dignissimos unde ducimus vitae, accusantium aliquam delectus.
+      Voluptatum odio delectus accusamus rem similique cupiditate ab
+      consectetur, recusandae eveniet optio rerum at? Nam at repellendus cumque
+      ipsam, accusantium perspiciatis nulla sequi quas error quibusdam
+      voluptatibus pariatur ad quis. Pariatur, aut perferendis? Recusandae eum
+      porro odio hic perspiciatis at consectetur officiis quas animi ratione?
+    </p>
+  </body>
+</html>
+
+<!--
+
+Стилизация плейсхолдера
+
+Плейсхолдер - текст, который отображается в input-поле, пока не будет введено значение
+Обычные свойства к нему не подойдут, они распространятся именно на вводимый текст
+
+Стилизация даты и времени в CSS невозможна, только с JS, либо эмулировать поведение, а потом с
+JS определять логику поведения
+
+Стилизация скролла:
+
+::-webkit-scrollbar {
+  width: 25px;
+  background: #101124;
+} 
+
+Это была стилизация самого скролла, а подложки написана ниже: 
+
+::-webkit-scrollbar-track {
+  border: 5px solid rgba(255, 255, 255, 0.25);
+}
+
+Стилизация ползунка:
+
+::-webkit-scrollbar-thumb {
+  background: linear-gradient(45deg, aqua, green);
+  border-radius: 15px;
+}
+
+CSS-спрайты - набор картинок, находящихся на прозрачной подложке
+Отображение каждого из элементов происходит с помощью 
+
+background:position
+
+-->

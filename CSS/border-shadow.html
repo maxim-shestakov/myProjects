@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <link rel="stylesheet" href="css-lesson6.css" />
+  <body>
+    <div class="example"></div>
+    <hr />
+    <button>Button</button>
+    <input type="text" />
+    <hr />
+    <h1>Hello world</h1>
+    <hr />
+    <div class="shadow"></div>
+  </body>
+</html>
+
+<!--
+Границы и тени:
+
+border-width - толщина границы
+border-color - цвет границы
+border-style - стиль или тип границы
+
+border-style:
+
+-solid (сплошная)
+-dotted (с точками)
+-dashed (пунктир)
+-double (двойная сплошная граница)
+-none - сброс отображения границы
+
+(Использующиеся редко, играются с объёмом)
+-groove
+-inset
+-outset
+-ridge
+
+Если использовать border-color: transparent - границу можно скрыть
+
+Можно указывать и в border через пробел
+
+Если нужно указывать с определённой стороны границу, то можем сделать
+либо border-right: none;, либо border-right-style: none;
+
+Примеры работы:
+
+border-bottom-width: 20px;
+border-left-color: blue;
+
+outline - доп рамка вокруг элемента, в блочной не участвует
+
+Обводку можно задать только со всех сторон, с одной стороны никак
+
+При перемещении с помощью TAB вокруг активных элементов появляется обводка,
+outline, если хотим убрать её, плохо будет написать так:
+
+* {
+    outline: none
+}
+
+Лучше написать так:
+
+button:focus,
+input:focus {
+  outline: 2px solid aqua;
+}
+
+Стилизовали тем самым активные элементы, не ухудшив доступность
+
+Тени:
+
+text-shadow (1-смещение вправо относительно текста, 2-смещение вниз,
+3-размытие, 4-цвет), особенность в том, что можно неограниченно добавлять
+тени
+
+Для элементов - box-shadow, так же работает, как и text-shadow,
+но можно сделать параметр inset, который переведёт тень внутрь объекта, 
+его можно указывать в любом месте, остальные параметры - строго по 
+порядку
+-->

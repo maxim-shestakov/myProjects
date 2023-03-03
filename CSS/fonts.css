@@ -1,0 +1,32 @@
+/*body {
+  font-family: Roboto, sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+  font-style: italic;
+}
+*/
+@font-face {
+  font-family: "Roboto";
+  src: url(/Fonts/Roboto-Regular.ttf) format("truetype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+body {
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: blueviolet;
+  text-decoration: underline overline line-through none;
+  letter-spacing: 2px;
+  word-spacing: 10px;
+  line-height: 100px;
+  text-transform: capitalize;
+  text-align: center;
+}
+
+p {
+  text-align: justify;
+  text-indent: 20px;
+}

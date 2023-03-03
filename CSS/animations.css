@@ -1,0 +1,68 @@
+body {
+  padding: 0;
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.example {
+  border: 2px solid black;
+  width: 200px;
+  height: 200px;
+  background-color: aqua;
+
+  /* animation-name: myAnimation;
+  animation-duration: 7s;
+  animation-timing-function: linear;
+  animation-iteration-count: 1; */
+  /* animation-direction: alternate; */
+  /* animation-fill-mode: forwards;
+  animation-delay: 1s; */
+  /* animation: name duration timing-function delay iteration-count direction fill-mode; */
+  animation: bgChange 5s infinite, sizeChange 5s infinite;
+}
+
+.example:hover {
+  animation-play-state: paused;
+}
+
+@keyframes myAnimation {
+  from {
+    background-color: aqua;
+  }
+
+  50% {
+    background-color: red;
+    transform: scale(1.2);
+  }
+
+  to {
+    background-color: yellow;
+    transform: scale(1.6);
+  }
+}
+
+@keyframes bgChange {
+  from {
+    background-color: aqua;
+  }
+  50% {
+    background-color: red;
+  }
+  to {
+    background-color: yellow;
+  }
+}
+
+@keyframes sizeChange {
+  from {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.4);
+  }
+  to {
+    transform: scale(1);
+  }
+}

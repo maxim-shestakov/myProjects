@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Lesson 13</title>
+    <link rel="stylesheet" href="css-lesson13.css" />
+  </head>
+  <body>
+    <div class="example"></div>
+  </body>
+</html>
+
+<!--
+
+Плавность перехода:
+
+transition-duration: Принимает значение в секундах, для разных свойств можно
+задать отдельно
+
+transition-property: Определяет свойство элемента, которое осуществляет плавный
+переход
+
+transition-property: all (анимируются все свойства)
+
+transition-delay:  (длительность задержки применения свойства, тоже можно сделать
+для разных)
+
+transition-timing-function: то, как переход будет происходить
+
+ease- дефолт, начало медленное, центр быстрее, конец медленнее
+ease-in, начало медленное, к концу ускорение
+ease-out, начало быстрое, к концу замедляется
+ease-in-out, начало и конец медленные
+linear, скорость постоянна
+step-start, моментальный переход
+step-end, переход по истечении заданного времени
+steps(10,start)/steps(10,end), первый параметр - количество шагов перехода, 
+второй - значение, от которого зависит, когда будет происходить переход, 
+в начале первого шага или в конце
+cubic-bezier(0.1,-0.3,0.2,0) - собственная анимация на основе кривых Безье
+
+Краткая запись:
+
+transition: all 1s ease-in 0.5s;
+
+1)Свойства
+2)Время перехода
+3)Временная функция
+4)Задержка
+-->
