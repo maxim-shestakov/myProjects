@@ -1,0 +1,9 @@
+FROM python:3.10.12
+
+WORKDIR Goodpractice
+
+RUN apt-get update && pip install matplotlib numpy
+
+COPY GCD.py ./
+
+ENTRYPOINT ["python3", "./GCD.py"]

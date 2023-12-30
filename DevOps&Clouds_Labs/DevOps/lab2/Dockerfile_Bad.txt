@@ -1,0 +1,12 @@
+FROM ubuntu:latest
+
+WORKDIR Badpractice
+RUN apt-get update
+RUN apt-get install -y python3
+RUN apt-get install python3-pip -y
+RUN pip install matplotlib
+RUN pip install numpy
+
+ADD GCD.py ./
+
+CMD ["python3", "./GCD.py"]
