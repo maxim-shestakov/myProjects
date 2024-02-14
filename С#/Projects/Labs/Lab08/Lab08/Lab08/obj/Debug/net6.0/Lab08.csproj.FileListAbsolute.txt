@@ -1,0 +1,4 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab08\Lab08\Lab08\obj\Debug\net6.0\Lab08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab08\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab08\Lab08\Lab08\obj\Debug\net6.0\Lab08.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab08\Lab08\Lab08\obj\Debug\net6.0\Lab08.csproj.CoreCompileInputs.cache

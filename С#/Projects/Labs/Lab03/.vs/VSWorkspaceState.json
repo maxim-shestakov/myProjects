@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\leapYear",
+    "\\Loop",
+    "\\Shapeifelse",
+    "\\shootingTask",
+    "\\shootingTask\\shootingTask",
+    "\\sumContinue",
+    "\\sumContinue\\sumContinue",
+    "\\WhileType",
+    "\\WhileType\\WhileType"
+  ],
+  "SelectedNode": "\\Loop\\Loop.cs",
+  "PreviewInSolutionExplorer": false
+}

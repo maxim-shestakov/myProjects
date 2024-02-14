@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\bin\Debug\net6.0\shootingTask.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\bin\Debug\net6.0\shootingTask.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\bin\Debug\net6.0\shootingTask.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\bin\Debug\net6.0\shootingTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\bin\Debug\net6.0\shootingTask.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\refint\shootingTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\shootingTask.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\shootingTask\shootingTask\obj\Debug\net6.0\ref\shootingTask.dll

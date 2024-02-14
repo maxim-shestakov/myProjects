@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\net6.0\MyClassLine.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\net6.0\MyClassLine.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\net6.0\MyClassLine.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\net6.0\MyClassLine.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\bin\Debug\net6.0\MyClassLine.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\refint\MyClassLine.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\MyClassLine.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\MyClassLine\MyClassLine\obj\Debug\net6.0\ref\MyClassLine.dll

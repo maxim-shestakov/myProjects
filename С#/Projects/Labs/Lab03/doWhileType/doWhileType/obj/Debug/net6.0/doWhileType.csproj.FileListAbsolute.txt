@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\bin\Debug\net6.0\doWhileType.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\bin\Debug\net6.0\doWhileType.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\bin\Debug\net6.0\doWhileType.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\bin\Debug\net6.0\doWhileType.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\bin\Debug\net6.0\doWhileType.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\refint\doWhileType.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\doWhileType.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\doWhileType\doWhileType\obj\Debug\net6.0\ref\doWhileType.dll

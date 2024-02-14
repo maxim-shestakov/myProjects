@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\bin\Debug\net6.0\sumContinue.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\bin\Debug\net6.0\sumContinue.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\bin\Debug\net6.0\sumContinue.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\bin\Debug\net6.0\sumContinue.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\bin\Debug\net6.0\sumContinue.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\refint\sumContinue.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\sumContinue.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\sumContinue\sumContinue\obj\Debug\net6.0\ref\sumContinue.dll

@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\net6.0\MatrixMultiply.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\net6.0\MatrixMultiply.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\net6.0\MatrixMultiply.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\net6.0\MatrixMultiply.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\bin\Debug\net6.0\MatrixMultiply.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\refint\MatrixMultiply.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\MatrixMultiply.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab05\MatrixMultiply\MatrixMultiply\obj\Debug\net6.0\ref\MatrixMultiply.dll

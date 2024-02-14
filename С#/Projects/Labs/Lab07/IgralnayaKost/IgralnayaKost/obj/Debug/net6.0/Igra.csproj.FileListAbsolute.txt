@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\bin\Debug\net6.0\Igra.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\bin\Debug\net6.0\Igra.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\bin\Debug\net6.0\Igra.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\bin\Debug\net6.0\Igra.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\bin\Debug\net6.0\Igra.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\refint\Igra.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\Igra.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\IgralnayaKost\IgralnayaKost\obj\Debug\net6.0\ref\Igra.dll

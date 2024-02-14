@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.exe
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.deps.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\refint\Loop.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\ref\Loop.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\bin\Debug\net6.0\Loop.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\refint\Loop.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\Loop.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Loop\obj\Debug\net6.0\ref\Loop.dll

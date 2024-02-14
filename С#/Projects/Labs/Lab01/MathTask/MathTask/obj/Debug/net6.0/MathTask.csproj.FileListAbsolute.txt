@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\bin\Debug\net6.0\MathTask.exe
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\bin\Debug\net6.0\MathTask.deps.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\bin\Debug\net6.0\MathTask.runtimeconfig.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\bin\Debug\net6.0\MathTask.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\bin\Debug\net6.0\MathTask.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\refint\MathTask.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\MathTask.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab01\MathTask\MathTask\obj\Debug\net6.0\ref\MathTask.dll

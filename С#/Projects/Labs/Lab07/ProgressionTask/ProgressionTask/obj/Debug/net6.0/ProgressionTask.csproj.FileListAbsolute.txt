@@ -1,0 +1,14 @@
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\bin\Debug\net6.0\ProgressionTask.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\bin\Debug\net6.0\ProgressionTask.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\bin\Debug\net6.0\ProgressionTask.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\bin\Debug\net6.0\ProgressionTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\bin\Debug\net6.0\ProgressionTask.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\refint\ProgressionTask.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ProgressionTask.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab07\ProgressionTask\ProgressionTask\obj\Debug\net6.0\ref\ProgressionTask.dll

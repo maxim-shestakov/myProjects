@@ -1,0 +1,28 @@
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.exe
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.deps.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.runtimeconfig.json
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.AssemblyInfo.cs
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\refint\Calc_switch.dll
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.pdb
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.genruntimeconfig.cache
+C:\Users\User\Desktop\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\ref\Calc_switch.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.exe
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.deps.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.runtimeconfig.json
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\bin\Debug\net6.0\Calc_switch.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.AssemblyInfoInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.AssemblyInfo.cs
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.csproj.CoreCompileInputs.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\refint\Calc_switch.dll
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.pdb
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\Calc_switch.genruntimeconfig.cache
+C:\Users\Max Shestakov\OneDrive - ITMO UNIVERSITY\Рабочий стол\Study\С#\Projects\Labs\Lab03\Calc_switch\obj\Debug\net6.0\ref\Calc_switch.dll
