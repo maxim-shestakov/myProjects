@@ -2,27 +2,35 @@
 
 ## cmd
 
-- CMD-directory contains main.go file.
+- CMD-directory содержит файл для запуска приложения
 
 ## Internal
 
-- Internal directory contains DB config. PostgreSQL was chosen as the DBMS.
+- Internal содержит в себе DB config. PostgreSQL был выбран в качестве СУБД.
 
 ## pkg
 
-- pkg directory contains handlers, logger, middleware and postgresql packages
-- These packages implemenr the application logic. JWT-token is used for the authorization system. This system contains two levels: one for the admin role and other for the user role. 
+- pkg директория содержит следующие пакеты: handlers, logger, middleware и postgresql
+- Данные пакеты реализуют всю логику приложения. В системе предусмотрено два уровня авторизации: администратор и пользователь, с разными правами доступа к системе.
 
 ### docs
 
-- docs directory contains all needed documentation for the swagger.
+- Docs директория содержит всю документацию для swagger.
 
 ## General info
 
-- Database was created with these tools: OpenServer, DBeaver (with postgres connection)
-- Swagger documentation contains all models and handlers
-- GinRouter is used for the routing paths
-- Authorization takes place via middleware
+- Функционал написан в рамках архитектуры REST API.
+- Токен авторизации создаётся при входе в систему через функцию login.
+- Хэширование токена реализовано через алгоритм HMAC-SHA256.
+- Хэширование пароля происходит через библиотеку bcrypt, далее для авторизации сравнивается хэш с возможным ключом хэширования.
+- БД была создана через следующие инструменты: OpenServer, DBeaver (с postgres соединением)
+- Хранилище - БД на PostgreSQL, instance которой происходит согласно паттерну Singleton.
+- Swagger-документация содержит все хэндлеры и модели, используемые в проекте.
+- GinRouter используется в качестве роутера для путей.
+- Авторизация настроена через middleware-обёртки, используется JWT-токен.
+- REST API имеет документацию в формате Swagger 2.0 (OPEN API 3.0).
+- Документация инициализируется при запуске контейнера Docker и доступна по запросу http://localhost:8080/swagger/index.html.
+- Для приложения создан Dockerfile, для БД - db.Dockerfile. Docker-compose файл сделан для сборки БД и приложения.
  
-Start command - docker compose up --build
-End command - docker compose down
+Команда для запуска приложения - docker compose up --build
+Команда для завершения работы приложения - docker compose down
